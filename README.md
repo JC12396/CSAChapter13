@@ -15,4 +15,4 @@
 <p></p>
 
 <p></p>
-<img src="screenshot.jpg" alt="How to Place A Screen Shot">
+<img src="Capture.PNG" alt="Results">
