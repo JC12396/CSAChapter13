@@ -18,4 +18,13 @@
 <img src="Capture.PNG" alt="Results">
 <p></p>
 <h2>Lesson 1.2.1</h2>
-
+<p></p>
+<p>#3. public static String readString() - gets file number input</p>
+<p>public static void writeString(String s) - edits the file</p>
+<p>public static void saveAndClose() - saves the changes</p>
+<p>#21. When there is no more text to read the while loop ends because it equals null.</p>
+<p>#29.</p>
+<p></p>
+<h3>Conclusion Q's</h3>
+<p>#1.</p>
+<p>#2.</p>
