@@ -27,5 +27,5 @@
 
 <img src="yes.PNG" alt="All 9 through 10">
 <h3>Conclusion Q's</h3>
-<p>#1.</p>
-<p>#2.</p>
+<p>#1. A for loop uses the exact amount and will repeat the exact amount of times which will need it to. While a while loop will repeat until the boolean statement comes back false which is good for reading text documents.</p>
+<p>#2. When smartphones became more popular and more used.</p>
