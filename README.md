@@ -25,7 +25,7 @@
 <p>#21. When there is no more text to read the while loop ends because it equals null.</p>
 <p>#29. I feel a while loop would be better because it will constantly check if it has another song to display.</p>
 
-<p><img src="yes.PNG" alt="All 9 through 10"></p>
+<img src="yes.PNG" alt="All 9 through 10">
 <h3>Conclusion Q's</h3>
 <p>#1.</p>
 <p>#2.</p>
