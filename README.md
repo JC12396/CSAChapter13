@@ -8,7 +8,7 @@
 <hr>
 
 <h3>How the code is writing the .txt file:</h3>
-<p>The code is using a .write statement edit the statement</p>
+<p>The code is using a .write statement to edit the statement. You also have to use a try statement to see if you can even open file in the first place. When the file opens either the user will input something to change a line in the text, or something will be coded to automatically write on the text file. Finally, the statement .save() and .close() will be used to close and save the file.</p>
 <h3>How the code is reading the .txt file:</h3>
 <p></p>
 <h3>What is a try-catch statement and why you need the catch:</h3>
